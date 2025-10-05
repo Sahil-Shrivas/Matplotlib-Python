@@ -21,10 +21,25 @@ You’ll find:
 
 Follow these steps to set up and run the examples:
 
-### 1. Clone the repository  
-```bash
+1. Clone the repository  
 git clone https://github.com/Sahil-Shrivas/Matplotlib-Python.git
 cd Matplotlib-Python
 
+2. **Create and activate a virtual environment (optional)**
+   ```bash
+   python -m venv venv
+   # For Windows
+    venv\Scripts\activate
+   # For macOS/Linux
+    source venv/bin/activate
+
+3. **Install dependencies:**
+    ```bash
+   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn jupyter
+
+4. **Run Jupyter Notebook:**
+   ```bash
+   jupyter notebook
 
 
