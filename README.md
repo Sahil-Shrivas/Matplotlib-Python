@@ -21,9 +21,10 @@ You’ll find:
 
 Follow these steps to set up and run the examples:
 
-1. Clone the repository  
-git clone https://github.com/Sahil-Shrivas/Matplotlib-Python.git
-cd Matplotlib-Python
+1. **Clone the repository  
+   ```bash
+   git clone https://github.com/Sahil-Shrivas/Matplotlib-Python.git
+   cd Matplotlib-Python
 
 2. **Create and activate a virtual environment (optional)**
    ```bash
