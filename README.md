@@ -6,7 +6,7 @@ A curated collection of Python scripts and Jupyter notebooks that demonstrate ho
 
 ## 🧾 Project Description
 
-Matplotlib is a powerful library for creating static, animated, and interactive visualizations in Python. :contentReference[oaicite:0]{index=0}  
+Matplotlib is a powerful library for creating static, animated, and interactive visualizations in Python.  
 This repository includes examples and tutorials on common plot types, styling techniques, and how to use Matplotlib alongside libraries like NumPy and pandas to analyze and visualize data.
 
 You’ll find:
@@ -29,4 +29,5 @@ Follow these steps to set up and run the examples:
 ```bash
 git clone https://github.com/Sahil-Shrivas/Matplotlib-Python.git
 cd Matplotlib-Python
+
 
