@@ -17,10 +17,6 @@ You’ll find:
 
 ---
 
-*(If your structure is slightly different, update this section to match.)*
-
----
-
 ## 🚀 How to Run / Use This Repository
 
 Follow these steps to set up and run the examples:
@@ -29,5 +25,6 @@ Follow these steps to set up and run the examples:
 ```bash
 git clone https://github.com/Sahil-Shrivas/Matplotlib-Python.git
 cd Matplotlib-Python
+
 
 
